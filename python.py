@@ -18,3 +18,4 @@ p2_y = float(input("Ingrese la coordenada Norte de P2: "))
 p2 = (p2_x, p2_y)
 
 print(f"Azimut de P1 a P2: {azimut(*p1, *p2):.2f}°")
+# j
